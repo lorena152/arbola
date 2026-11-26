@@ -1,0 +1,6 @@
+{
+  "name": "Árbol Studio",
+  "description": "Plataforma interactiva de árboles de decisión, análisis exploratorio, poda de modelos y estrategias de negocio y marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
